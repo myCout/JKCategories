@@ -125,4 +125,5 @@
 #import "UIWebView+JKLoadInfo.h"
 #import "UIWebView+JKWebStorage.h"
 #import "UIWindow+JKHierarchy.h"
+#import "UIView+HYViewKit.h"
 #endif /* JKUIKit_h */
